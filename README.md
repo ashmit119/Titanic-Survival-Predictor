@@ -5,18 +5,18 @@ This project predicts passenger survival on the Titanic using a machine learning
 ## Setup
 If you have a Jupyter Notebook environment:
 
-1. Open the `titanic.ipynb` notebook.
+1. Open the `titanic_ML.ipynb` notebook.
 2. Run the cells step-by-step to see the code and results.
 
 Or, if using Python :
 
 1. Install required packages:
-2. Open and run the `titanic.ipynb` notebook.
+2. Open and run the `titanic_ML.ipynb` notebook.
 
 ## Files
 
 - `titanic.csv` - dataset
-- `titanic.ipynb` - project code
+- `titanic_ML.ipynb` - project code
 
 ## What it does
 
