@@ -1,2 +1,32 @@
-# Titanic-Survival-Predictor
-In this project, we will build a machine learning model on the Titanic dataset to clean, preprocess, visualize, and predict passenger survival with model accuracy and gain real-world insights.
+# Titanic Survival Prediction
+
+This project predicts passenger survival on the Titanic using a machine learning algorithm-RANDOM FOREST.
+
+## Setup
+If you have a Jupyter Notebook environment:
+
+1. Open the `titanic.ipynb` notebook.
+2. Run the cells step-by-step to see the code and results.
+
+Or, if using Python :
+
+1. Install required packages:
+2. Open and run the `titanic.ipynb` notebook.
+
+## Files
+
+- `titanic.csv` - dataset
+- `titanic.ipynb` - project code
+
+## What it does
+
+- Loads and cleans data
+- Trains a Random Forest model
+- Evaluates model accuracy
+- Makes predictions on user inputed data
+  
+Feel free to explore and learn from the code!
+
+---
+
+Contact: ashmitbanerjee11.pkt@gmail.com
